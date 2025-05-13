@@ -1,0 +1,5 @@
+from pygame import *
+
+back = (200,255,255)
+win_width = 600
+win_height = 500
